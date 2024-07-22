@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-![Rafael's Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=rafatrl&count_private=true&show_icons=true&theme=gotham) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafatrl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Rafael's Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=rafatrl&count_private=true&show_icons=true&theme=gotham) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafatrl&layout=compact)
 
 ## Sou o Rafael Teles, Analista de Qualidade!
 Entusiasta em tecnologia a 12 anos. Já atuei como técnico em informática, analista de redes, inciei na programação WEB e hoje me encontrei como Analista de Qualidade com mais de 3 anos de experiência em testes a ambiente WEB/MOBILE/API. Ao longo na minha carreira passei por projetos de público/privado, e-commerce e instituições bancárias.
